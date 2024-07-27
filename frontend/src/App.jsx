@@ -7,8 +7,6 @@ import {
   BrowserRouter as Router,
   Routes,
 } from "react-router-dom";
-import Login from "./components/Auth/Login";
-import Signup from "./components/Auth/Signup";
 import Home from "./components/Home";
 import "./App.css";
 import About from "./components/About/About";
@@ -27,8 +25,6 @@ function App() {
         <Layout>
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/login" element={<Login />} />
-            <Route path="/signup" element={<Signup />} />
             <Route path="/about" element={<About />} />
             <Route path="/admin/:slug?/:slug2?/:id?" element={<Dashboard />} />
             <Route path="*" element={<NotFound />} />
