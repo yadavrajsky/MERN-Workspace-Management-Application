@@ -1,3 +1,10 @@
+
+![image](https://github.com/user-attachments/assets/1c3104a7-8506-4e8c-bc69-e3fcb1b86f71)
+
+![image](https://github.com/user-attachments/assets/332208a9-10d1-46ba-9a6e-5a1573885ffe)
+
+https://github.com/user-attachments/assets/7461bc8f-6d18-48b7-9fa4-f7d03aae0409
+
 # MERN Workspace Management Application
 
 ## Overview
@@ -83,7 +90,7 @@ This project is a MERN stack (MongoDB, Express.js, React, Node.js) application d
 
 - **Server Configuration:**
   - Runs on port `4000`
-  - Connects to MongoDB at `mongodb://127.0.0.1:27017/glassberydemo`
+  - Connects to MongoDB at `mongodb://127.0.0.1:27017/your_db`
 
 - **Endpoints:**
   - Various endpoints for managing workspaces, user authentication, and more
