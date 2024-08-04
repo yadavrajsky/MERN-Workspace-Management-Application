@@ -34,8 +34,8 @@ This project is a MERN stack (MongoDB, Express.js, React, Node.js) application d
 
     ```env
     PORT=4000
-    DB_URI=mongodb://127.0.0.1:27017/glassberydemo
-    JWT_SECRET=7F8F133232D14C96C29C5A6FDE7F4
+    DB_URI=mongodb://127.0.0.1:27017/your_db
+    JWT_SECRET=your_secret_key
     JWT_EXPIRE=5d
     COOKIE_EXPIRE=5d
     ```
